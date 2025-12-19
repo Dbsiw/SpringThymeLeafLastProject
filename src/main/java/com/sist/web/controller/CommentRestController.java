@@ -19,7 +19,9 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class CommentRestController {
    private final CommentService cService;
-   
+   /*
+    * qweqeqew
+    */
    public Map commonsData(int cno,int type)
    {
 	   Map map=new HashMap();
